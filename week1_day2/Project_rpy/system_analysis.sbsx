@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 767d26f3-9369-42bb-afd9-5634fbd03209</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">system_analysis</_name>
+			<_modifiedTimeWeak type="a">3.28.2024::12:20:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.28.2024::12:20:42</_modifiedTime>
+			<weakCGTime type="a">3.28.2024::12:20:42</weakCGTime>
+			<strongCGTime type="a">3.28.2024::12:19:2</strongCGTime>
+			<_defaultComposite type="s">GUID 8b8e7e62-2246-4ccf-b248-28fca6c674aa</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID dad16f0a-aa85-4cb3-a921-27a9d509862b</value>
+				<value>GUID 71f1d760-85b0-4515-ad86-faf026f3eec3</value>
+				<value>GUID 11b15630-9aa7-4229-9b7f-2634c3ce0c7f</value>
+				<value>GUID 11a2f2a2-209d-4337-b918-d22af139e04f</value>
+				<value>GUID 486548dd-66c4-4eeb-afd0-595ca011a821</value>
+				<value>GUID 2dc9d3b5-a66a-4e02-a16b-52dabe27f7a6</value>
+				<value>GUID fd8a6a9f-f9ff-48d3-a71f-732f15b99a7c</value>
+				<value>GUID 8b8e7e62-2246-4ccf-b248-28fca6c674aa</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">problem_definition</fileName>
+			<_id type="a">GUID dad16f0a-aa85-4cb3-a921-27a9d509862b</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">problem_domains_context</fileName>
+			<_id type="a">GUID 71f1d760-85b0-4515-ad86-faf026f3eec3</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">project_context</fileName>
+			<_id type="a">GUID 11b15630-9aa7-4229-9b7f-2634c3ce0c7f</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">system_context</fileName>
+			<_id type="a">GUID 11a2f2a2-209d-4337-b918-d22af139e04f</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">tms_operating_environment</fileName>
+			<_id type="a">GUID 486548dd-66c4-4eeb-afd0-595ca011a821</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">requirements</fileName>
+			<_id type="a">GUID 2dc9d3b5-a66a-4e02-a16b-52dabe27f7a6</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">use_cases</fileName>
+			<_id type="a">GUID fd8a6a9f-f9ff-48d3-a71f-732f15b99a7c</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 8b8e7e62-2246-4ccf-b248-28fca6c674aa</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

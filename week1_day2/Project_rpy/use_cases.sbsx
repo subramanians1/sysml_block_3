@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID fd8a6a9f-f9ff-48d3-a71f-732f15b99a7c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">use_cases</_name>
+			<_modifiedTimeWeak type="a">3.28.2024::12:21:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.28.2024::12:21:12</_modifiedTime>
+			<weakCGTime type="a">3.28.2024::12:21:12</weakCGTime>
+			<strongCGTime type="a">3.28.2024::12:20:38</strongCGTime>
+			<_defaultComposite type="s">GUID 224d154b-c550-4e15-8de6-f8dd82542f49</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID a86cc7f5-dfdd-42c9-8bb3-fcc457f022c7</value>
+				<value>GUID 224d154b-c550-4e15-8de6-f8dd82542f49</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">temperature_ucs</fileName>
+			<_id type="a">GUID a86cc7f5-dfdd-42c9-8bb3-fcc457f022c7</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 224d154b-c550-4e15-8de6-f8dd82542f49</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
